@@ -1,0 +1,12 @@
+1.What is node?
+An open source,run time environment for executing javascript code outside of a browser,quite often in backend services,also called api(application programming interface)
+
+web apps are client level ,we need storage/server to store data. Node is efficient as a higly scalable,data intensive & real time apps.
+
+Node is super fast and highly scalable.
+Node application uses javascript. So if you are a front end developer,you can use your javascript skills to learn node and become full stack developer. No need to learn a new programming language. As javasript in both front end and back end ,so source code is more consistent and cleaner.Same naming convention,same best practices.
+
+Why node is non-blocking(asynchronus)?
+https://www.freecodecamp.org/news/node-js-what-when-where-why-how-ab8424886e2/#:~:text=In%20Node%2C%20non%2Dblocking%20primarily,O%20methods%20in%20the%20Node.
+
+https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/

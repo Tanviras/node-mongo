@@ -1,0 +1,17 @@
+Javscripts is a programming language used for writng scripts in website.
+Node is a runtime environment and interpreter for javascript 
+
+Js is only used in  browser
+Node outside the browser too
+
+client-side use
+server-side use
+
+capable of adding HTML
+don't have capability of adding HTML
+
+can run in any browser like js core in safari ,spidermonkey in firefox,v8 in google chrome
+can run in only v8 engine of google chrome
+
+upgraded version of ecmascript that uses chrome's v8 engine written in C++
+written in C,C++ and javascript
